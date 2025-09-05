@@ -1,2 +1,3 @@
 # Gittrainning
-Trainning gitgit
+Trainning git 
+helloô 
